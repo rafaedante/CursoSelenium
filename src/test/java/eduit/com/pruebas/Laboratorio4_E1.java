@@ -31,7 +31,7 @@ public class Laboratorio4_E1 {
 	  	System.setProperty("webdriver.chrome.driver",driverPath);
 	  	//instanciar Driver de Chrome + importar libreria org.openqa.selenium.chrome.ChromeDriver
 	  	driver= new ChromeDriver();
-	  	System.out.println("Inicio de suite de pruebas"); 
+	  	System.out.println("Inicio de suite de pruebas de la clase 4 final"); 
         driver.get(urlTest);
      }
 	
